@@ -1,0 +1,14 @@
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/bin/Debug/net9.0/PolymorphismExample
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/bin/Debug/net9.0/PolymorphismExample.deps.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/bin/Debug/net9.0/PolymorphismExample.runtimeconfig.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/bin/Debug/net9.0/PolymorphismExample.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/bin/Debug/net9.0/PolymorphismExample.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/obj/Debug/net9.0/PolymorphismExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/obj/Debug/net9.0/PolymorphismExample.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/obj/Debug/net9.0/PolymorphismExample.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/obj/Debug/net9.0/PolymorphismExample.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/obj/Debug/net9.0/PolymorphismExample.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/obj/Debug/net9.0/refint/PolymorphismExample.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/obj/Debug/net9.0/PolymorphismExample.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/obj/Debug/net9.0/PolymorphismExample.genruntimeconfig.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PolymorphismExample/PolymorphismExample/obj/Debug/net9.0/ref/PolymorphismExample.dll
